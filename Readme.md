@@ -4,7 +4,7 @@ Based on Frappé by [@niftylettuce](https://github.com/niftylettuce)
 
 [![MIT License][license-image]][license-url]
 
-![Demo][demo]
+![Demo](http://media4.giphy.com/media/aSNCrDRg1xRe0/giphy-downsized.gif)
 
 The reason why I decided to fork [Frappé](https://github.com/niftylettuce/frappe) is simple — I'm a React Native developer, and I'm tired of clicking "Reload JS" or "Debug JS" in React Native context menu manually. 
 **Milkshake** allows you to shake Android devices (including emulators), and perform some additional actions automatically, for example, start JS debugging and reload JS.
